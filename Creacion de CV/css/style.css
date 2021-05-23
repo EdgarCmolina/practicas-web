@@ -5,7 +5,7 @@ body {
   width: 700px;
   background: white;
   margin: auto;
-  border: 2px solid black;
+  border: 2px solid rgb(167, 204, 33);
 }
 .documento h1 {
   text-align: center;
@@ -22,14 +22,14 @@ body {
   font-size: 13px;
 }
 .documento .datos-personales h2 {
-  color: blueviolet;
+  color: rgb(117, 10, 112);
 }
 .documento .formacion {
   box-sizing: border-box;
   float: right;
   width: 60%;
   padding-left: 20px;
-  border-left: 4px solid black;
+  border-left: 4px solid rgb(105, 13, 211);
 }
 .documento .formacion p {
   font-size: 13px;
